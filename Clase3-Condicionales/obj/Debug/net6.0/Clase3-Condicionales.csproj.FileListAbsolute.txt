@@ -1,0 +1,15 @@
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\bin\Debug\net6.0\Clase3-Condicionales.exe
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\bin\Debug\net6.0\Clase3-Condicionales.deps.json
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\bin\Debug\net6.0\Clase3-Condicionales.runtimeconfig.json
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\bin\Debug\net6.0\Clase3-Condicionales.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\bin\Debug\net6.0\Clase3-Condicionales.pdb
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.csproj.AssemblyReference.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.AssemblyInfoInputs.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.AssemblyInfo.cs
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.csproj.CoreCompileInputs.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\refint\Clase3-Condicionales.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.pdb
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\Clase3-Condicionales.genruntimeconfig.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase3-Condicionales\obj\Debug\net6.0\ref\Clase3-Condicionales.dll

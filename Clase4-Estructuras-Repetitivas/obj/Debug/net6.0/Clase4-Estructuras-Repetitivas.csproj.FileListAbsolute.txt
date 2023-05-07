@@ -1,0 +1,15 @@
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\bin\Debug\net6.0\Clase4-Estructuras-Repetitivas.exe
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\bin\Debug\net6.0\Clase4-Estructuras-Repetitivas.deps.json
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\bin\Debug\net6.0\Clase4-Estructuras-Repetitivas.runtimeconfig.json
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\bin\Debug\net6.0\Clase4-Estructuras-Repetitivas.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\bin\Debug\net6.0\Clase4-Estructuras-Repetitivas.pdb
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.csproj.AssemblyReference.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.AssemblyInfoInputs.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.AssemblyInfo.cs
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.csproj.CoreCompileInputs.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\refint\Clase4-Estructuras-Repetitivas.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.pdb
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\Clase4-Estructuras-Repetitivas.genruntimeconfig.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase4-Estructuras-Repetitivas\obj\Debug\net6.0\ref\Clase4-Estructuras-Repetitivas.dll

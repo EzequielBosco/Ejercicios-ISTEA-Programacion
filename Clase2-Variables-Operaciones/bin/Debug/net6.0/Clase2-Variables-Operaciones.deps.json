@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase2-Variables-Operaciones/1.0.0": {
+        "runtime": {
+          "Clase2-Variables-Operaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase2-Variables-Operaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.csproj.AssemblyReference.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.AssemblyInfoInputs.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.AssemblyInfo.cs
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.csproj.CoreCompileInputs.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\bin\Debug\net6.0\Clase2-Variables-Operaciones.exe
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\bin\Debug\net6.0\Clase2-Variables-Operaciones.deps.json
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\bin\Debug\net6.0\Clase2-Variables-Operaciones.runtimeconfig.json
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\bin\Debug\net6.0\Clase2-Variables-Operaciones.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\bin\Debug\net6.0\Clase2-Variables-Operaciones.pdb
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\refint\Clase2-Variables-Operaciones.dll
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.pdb
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\Clase2-Variables-Operaciones.genruntimeconfig.cache
+D:\Usuario\Programacion\ISTEA\Desarrollo de software\Programacion\Ejercicios\Clase2-Variables-Operaciones\obj\Debug\net6.0\ref\Clase2-Variables-Operaciones.dll
