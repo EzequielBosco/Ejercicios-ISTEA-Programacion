@@ -10,7 +10,6 @@
             int[] listaR = new int[lista.Length];
             int limite = 120, rechazadas = 0, aceptadas = 0, maximo = 0, precioCancion = 500, opcion = 0, posicion = 0;
             int limiteCompilado = 360, sumaDiscos = 0, disco = 1;
-            int[] cancionesMasLargas = new int[3];
 
             // 1
             Console.WriteLine("PUNTO 1");
