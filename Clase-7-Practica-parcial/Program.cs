@@ -2,7 +2,6 @@
 {
     class Program
     {
-        enum Dias { Domingo = 1, Lunes, Martes, Miercoles, Jueves, Viernes, Sabado }
 
         static void Main(string[] args)
         {
