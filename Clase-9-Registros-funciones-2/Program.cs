@@ -27,14 +27,14 @@
         static void Main(string[] args)
         {
 
-            string salud = "tengo";
-            int noTiene, tiene;
+            // string salud = "tengo";
+            // int noTiene, tiene;
 
-            noTiene = salud.IndexOf("0");
-            Console.WriteLine(noTiene);
+            // noTiene = salud.IndexOf("0");
+            // Console.WriteLine(noTiene);
 
-            tiene = salud.IndexOf("o");
-            Console.WriteLine(tiene);
+            // tiene = salud.IndexOf("o");
+            // Console.WriteLine(tiene);
 
             //int perimetro = 0;
             //Cuadrado(5, ref perimetro);
@@ -49,15 +49,25 @@
             //int maximo = 4;
             //Secuencia1(in maximo);
 
-            bool pudo;
-            int resultado2;
-            pudo = ConversionLiquido(0, out resultado2);
-            if (pudo)
-            {
-                Console.WriteLine($"El resultado es {resultado2}");
-            }
-            else
+            // bool pudo;
+            // int resultado2;
+            // pudo = ConversionLiquido(0, out resultado2);
+            // if (pudo)
+            // {
+            //     Console.WriteLine($"El resultado es {resultado2}");
+            // }
+            // else
+            //     Console.WriteLine("No se pudo resolver");
+
+            string hola = "hola", resultado; 
+            bool hola1;
+
+            hola1 = Izquierda(hola, 2, out resultado);
+            if (hola1) {
+                Console.WriteLine(resultado);
+            } else {
                 Console.WriteLine("No se pudo resolver");
+            }
 
         }
 
@@ -92,6 +102,19 @@
             return true;
 
         }
+
+        // EJERCICIO 10
+        static bool Izquierda(string cadena, int cantidad, out string resultado) {
+            if (cadena.Length > 0) {
+                resultado = cadena.Substring(0, cantidad);
+                return true;
+            } else {
+                resultado = "";
+                return false;
+            }
+        }
+
+        
     }
 }
 
